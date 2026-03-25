@@ -1,0 +1,17 @@
+vehicle_node:
+  ros__parameters:
+    bridge_address: "10.7.113.149"
+    neptus_address: "10.7.113.149"
+    sys_name: "VSA"
+
+vessel_node:
+  ros__parameters:
+    bridge_address: "10.7.113.149"
+    neptus_address: "10.7.113.149"
+    sys_name: "FS Heincke"
+    
+transponder_node:
+  ros__parameters:
+    bridge_address: "10.7.113.149"
+    neptus_address: "10.7.113.149"
+    sys_name: "Transponder1"

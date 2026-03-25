@@ -1,0 +1,3 @@
+[submodule "src/neptus_msgs"]
+	path = src/neptus_msgs
+	url = https://github.com/paagutie/neptus_msgs.git
